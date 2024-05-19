@@ -1,0 +1,5 @@
+lab task:
+1. generate an analog signal 
+2. sampling the signal, quantization
+3. unit impulse / sample, unit step, unit ramp
+4. shifting, scaling, reversal
